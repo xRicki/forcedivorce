@@ -6,10 +6,10 @@ import time
 from selfcord.ext import commands
 from selfcord.ext.commands.context import Context
 
-token = "OTQxODE3MzQxNDkzMjc2NzM0.G6nd6Z.pJqt2jRlgUKb3GJU1ukJYGR725_W8Y1e20x35s"
-channels_id = [1056687422697644043, 1106746211521794158, 1052408373775179846, 1104596203565494453, 1115443611606200370]
-char_name = "Zero Two"
-user_id = 941817341493276734
+token = "token"
+channels_id = [channelid1, channelid2]
+char_name = "Char Name"
+user_id = 1111111111111111
 
 
 
